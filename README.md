@@ -19,7 +19,7 @@ Whether it’s **OOP in C++**, **interactive web apps**, or experimenting with *
 - 🎨 Graphics programming in C++  
 - 📊 Building structured, user-friendly systems
 
-- ## 🚀 Technologies & Tools I Use
+## 🚀 Technologies & Tools I Use
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
