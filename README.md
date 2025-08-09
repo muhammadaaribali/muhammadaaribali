@@ -2,6 +2,8 @@
 
 
 
+Software Engineering Student | Frontend Developer | HTML & CSS Expert | Strong Foundation in C/C++ & OOP
+
 ## 👋 Hi, I’m Muhammad Aarib Ali  
 
 I’m a passionate programmer who loves exploring and building in multiple domains of technology.  
