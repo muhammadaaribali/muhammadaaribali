@@ -12,7 +12,7 @@ My skill set spans **C, C++, HTML, CSS, JavaScript**, and beyond — from crafti
 I enjoy solving problems, learning new tools, and turning ideas into working solutions.  
 Whether it’s **OOP in C++**, **interactive web apps**, or experimenting with **graphics programming**, I’m always eager to explore the next challenge.  
 
-💡 **Interests:**  
+##💡Interests: 
 - 💻 Software development & problem solving  
 - 🌐 Web development (front-end focus)  
 - 🛠 Object-Oriented Programming (C++)  
