@@ -6,7 +6,7 @@ Software Engineering Student | Frontend Developer | HTML & CSS Expert | Strong F
 
 ## 👋 Hi, I’m Muhammad Aarib Ali  
 
-I’m a passionate programmer who loves exploring and building in multiple domains of technology.  
+I’m a passionate programmer who loves exploring and building in multiple domains of technology. Right now in 3rd semester.
 My skill set spans **C, C++, HTML, CSS, JavaScript**, and beyond — from crafting dynamic web projects to developing structured, efficient console-based applications.  
 
 I enjoy solving problems, learning new tools, and turning ideas into working solutions.  
